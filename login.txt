@@ -1,0 +1,12 @@
+ayana 123 client
+bermet 555 waiter
+nuris 2234 admin
+zhaphar 333 client
+zhaphar 12345 client
+as 1 admin
+as 22 admin
+qwer 111 admin
+www 5556 admin
+rr 4 client
+zhaphar 345 client
+ayana 888 manager

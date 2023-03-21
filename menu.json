@@ -1,0 +1,60 @@
+{
+    "first": [
+        {"id": 1, "name": "Lentil soup", "price": 175},
+        {"id": 2, "name": "Meatball soup", "price": 195},
+        {"id": 3, "name": "Santavro", "price": 225},
+        {"id": 4, "name": "Kazakh meat", "price": 205},
+        {"id": 5, "name": "Mastava", "price": 190},
+        {"id": 6, "name": "Chuchvara", "price": 200},
+        {"id": 7, "name": "Soup", "price": 225},
+        {"id": 8, "name": "Green cabbage soup", "price": 210},
+        {"id": 9, "name": "Vegetable soup", "price": 165},
+        {"id": 10, "name": "Lagman", "price": 220}
+    ],
+    "second": [
+        {"id": 1, "name": "Fricassee with rice", "price": 365},
+        {"id": 2, "name": "Beef stroganoff with garnish", "price": 375},
+        {"id": 3, "name": "Chicken breast with creamy sauce", "price": 265},
+        {"id": 4, "name": "Fish in sauce", "price": 405},
+        {"id": 5, "name": "Chicken in sauce", "price": 300},
+        {"id": 6, "name": "Fried manti", "price": 200},
+        {"id": 7, "name": "Chaseji with chicken", "price": 385},
+        {"id": 8, "name": "Kazan trout kebab", "price": 410},
+        {"id": 9, "name": "Kuurdak with shin", "price": 450},
+        {"id": 10, "name": "Beshbarmak", "price": 400}
+    ],
+    "salads": [
+        {"id": 1, "name": "Fattoush salad", "price": 365},
+        {"id": 2, "name": "Quinoa and Trout Salad", "price": 300},
+        {"id": 3, "name": "Homemade salad", "price": 305},
+        {"id": 4, "name": "Caesar Salad", "price": 405},
+        {"id": 5, "name": "Yerofeyevsky salad", "price": 300},
+        {"id": 6, "name": "Mushuru salad", "price": 200},
+        {"id": 7, "name": "Oriental Salad", "price": 385},
+        {"id": 8, "name": "Liansai salad", "price": 280},
+        {"id": 9, "name": "Greek Salad", "price": 350},
+        {"id": 10, "name": "Olivier salad", "price": 290}
+    ],
+    "drinks": [
+        {"id": 1, "name": "Сoca Cola", "price": 80},
+        {"id": 2, "name": "Fanta", "price": 80},
+        {"id": 3, "name": "Sprite", "price": 80},
+        {"id": 4, "name": "Pepsi", "price": 90},
+        {"id": 5, "name": "Lemonade Black Currant", "price": 170},
+        {"id": 6, "name": "Homemade compote", "price": 150},
+        {"id": 7, "name": "Mineral water", "price": 60} 
+    ],
+    "tea": [
+        {"id": 1, "name": "Bay tea", "price": 50},
+        {"id": 2, "name": "Kyrma tea", "price": 60},
+        {"id": 3, "name": "Fruit tea", "price": 80},
+        {"id": 4, "name": "Tashkent tea", "price": 90},
+        {"id": 5, "name": "Tea with milk", "price": 70},
+        {"id": 6, "name": "Ginger tea", "price": 50},
+        {"id": 7, "name": "Black tea", "price": 40},
+        {"id": 8, "name": "Karkade", "price": 150},
+        {"id": 9, "name": "Rosehip", "price": 150},
+        {"id": 10, "name": "Issyk-Kul tea", "price": 60}  
+    ]
+}
+
